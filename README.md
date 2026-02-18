@@ -34,12 +34,15 @@ Realiza una consulta simple al modelo para explicar un concepto.
 ```bash
 python Ejercicio_1.py
 ```
+<img width="1314" height="682" alt="image" src="https://github.com/user-attachments/assets/a9151fc0-b67f-48ee-888d-490188ac21c5" />
 
 ### 2️⃣ Ejercicio 2: Procesamiento de Texto (Roles y Tareas)
 Una función que actúa como un **Editor Editorial**, capaz de resumir o profesionalizar textos.
 ```bash
 python Ejercicio_2.py
 ```
+<img width="1323" height="682" alt="image" src="https://github.com/user-attachments/assets/eacd9ad1-b213-40f4-a58d-f8c9fe9068cc" />
+
 
 ### 3️⃣ Ejercicio 3: Chat Interactivo (Vendedor de Tecnología)
 Un chatbot que simula ser un **vendedor amable**, con memoria de conversación (few-shot learning) para recomendar productos.
@@ -49,6 +52,8 @@ Un chatbot que simula ser un **vendedor amable**, con memoria de conversación (
 ```bash
 python Ejercicio_3.py
 ```
+<img width="1324" height="682" alt="image" src="https://github.com/user-attachments/assets/d41a1999-366e-403b-93e6-e9793a04cdd5" />
+
 
 ## 🛠️ Solución de Problemas Comunes
 
